@@ -16,3 +16,6 @@ Create a pull request
  - Pull requests are used to merge changes from a feature branch to the master branch. 
    Pull requests allow users to review and revise changes by collaborating with other users.
    Other changes can be "Push"-ed to the same pull request (for revisions).
+ - Open a Pull request for the new changes
+ - Review the changes
+ - Merge the pull request
