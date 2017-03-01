@@ -21,7 +21,7 @@ Create a pull request
  - Merge the pull request
 
 Delete the branch
- - delete the branch if after confirming all changes are available in master branch.
+ - delete the branch after confirming that all changes are available in master branch.
  
 Further edits in the same branch
  - new merges require new pull requests. 
