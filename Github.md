@@ -19,3 +19,9 @@ Create a pull request
  - Open a Pull request for the new changes
  - Review the changes
  - Merge the pull request
+
+Delete the branch
+ - delete the branch after confirming that all changes are available in master branch.
+ 
+Further edits in the same branch
+ - new merges require new pull requests. 
